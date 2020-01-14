@@ -1,15 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not access HTTP invoker remote service" />
       <item value="application" />
       <item value="Http Servlet Request" />
       <item value="Servlet Context" />
-      <item value="Could not access HTTP invoker remote service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
