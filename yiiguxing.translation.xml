@@ -1,0 +1,29 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="application" />
+      <item value="Http Servlet Request" />
+      <item value="Servlet Context" />
+      <item value="Could not access HTTP invoker remote service" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
