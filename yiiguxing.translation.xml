@@ -17,6 +17,7 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
