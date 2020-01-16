@@ -1,0 +1,10 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="context.save" />
+</keymap>
