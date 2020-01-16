@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Syntax" />
       <item value="Program" />
       <item value="Could not access HTTP invoker remote service" />
       <item value="application" />
@@ -9,8 +10,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
