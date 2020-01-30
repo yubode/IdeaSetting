@@ -6,7 +6,12 @@
           <option name="url" value="http://39.99.172.130" />
           <option name="userName" value="yubo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@39.99.172.130:wangqingbin/mdtb-.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/allofts" />
   </component>
 </application>
